@@ -1,5 +1,4 @@
 # pyspark_datamanagement_metadata
-
 Udemyで公開している以下のコースの資料になります。
 「【PythonとSparkで始めるデータマネジメント入門】 ビッグデータレイクのための統合メタデータ管理入門」
 https://www.udemy.com/course/draft/4367192/?referralCode=AB48AD18D10E55DCB0E5

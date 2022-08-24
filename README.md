@@ -22,3 +22,6 @@ https://www.udemy.com/course/draft/4415660/?referralCode=EF89D5D240FB483AF4A1
 
 5. **「【実戦で学ぶデータ分析基盤構築講座】ローカル端末で1から始めるデータ分析基盤の構築とデータ活用のための活動」**
 https://www.udemy.com/course/dataplatform_local/?referralCode=FFAE0C4DC02083D63DC9
+
+# 更新履歴
+1. 2022/08/24 : mysqlへの接続先をdb_mysqlに変更しました  

@@ -25,3 +25,4 @@ https://www.udemy.com/course/dataplatform_local/?referralCode=FFAE0C4DC02083D63D
 
 # 更新履歴
 1. 2022/08/24 : mysqlへの接続先をdb_mysqlに変更しました  
+2. 2023/11/19 : 英字文字列データを配置しました
